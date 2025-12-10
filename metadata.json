@@ -1,0 +1,5 @@
+{
+  "name": "RutinaAI Analyzer",
+  "description": "An AI-powered fitness assistant that analyzes your workout routine via PDF or image, asks tailored filtering questions, and provides personalized feedback and improvements.",
+  "requestFramePermissions": []
+}
